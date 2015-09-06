@@ -1,5 +1,5 @@
 Supermicro IPMI/BMC Cleartext Password Scanner v20140622 by 1N3
-http://treadstonesecurity.blogspot.ca
+https://crowdshield.com
 Usage: sh supermicro_scan.sh <CIDR|IP|showdan> [proxy]
 
 ABOUT:
